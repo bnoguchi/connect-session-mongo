@@ -14,7 +14,7 @@
   },
   "main": "./lib/connect-session-mongo",
   "dependencies": {
-    "connect": ">=0.2.4",
+    "connect": "1.x",
     "mongodb": ">=0.8.0"
   },
   "licenses":[
